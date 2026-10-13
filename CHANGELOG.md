@@ -1,6 +1,6 @@
-## 0.0.1
+## 0.0.2
 
-* Initial release of `ios_sliding_navbar`.
+* Added interactive Demo GIF for visual understanding.
 * `SlidingSegmentedNavbar` — iOS-style sliding pill indicator with:
   * Real-time 1:1 drag tracking with the user's finger.
   * Pop-out lift physics on drag start (scale + shadow elevation).
