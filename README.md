@@ -1,5 +1,7 @@
 # ios_sliding_navbar
 
+
+
 [![pub.dev](https://img.shields.io/pub/v/ios_sliding_navbar.svg)](https://pub.dev/packages/ios_sliding_navbar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Flutter](https://img.shields.io/badge/Flutter-≥3.0.0-blue.svg)](https://flutter.dev)
@@ -8,21 +10,24 @@ A highly polished **iOS-style sliding segmented navbar** for Flutter featuring r
 
 ---
 
-## ✨ Features
+![Demo](assets/demo.gif)
 
-- 🎯 **Real-time 1:1 drag tracking** — pill center follows your finger instantly
-- 🫧 **Pop-out lift physics** — pill scales up (×1.10) with elevated shadow on drag start, settling smoothly on release
-- ⚡ **Velocity-aware flick** — fast swipes snap to the next/previous tab intelligently
-- 📄 **`PageController` sync** — pill mirrors `PageView` drag proportionally in real time
-- 📑 **`TabController` sync** — works seamlessly with `TabBarView`
-- 🎛️ **Controlled mode** — drive index externally via `currentIndex` (BLoC / Riverpod / setState)
-- 🔔 **Badges** — dot badges on icons via `SlidingNavItem`
-- 🎨 **Fully customisable** — colors, borders, border radii, shadows, text styles
-- ♿ **Accessible** — semantic button roles, selected state, custom labels
+
+## Features
+
+- **Real-time 1:1 drag tracking** — pill center follows your finger instantly
+- **Pop-out lift physics** — pill scales up (×1.10) with elevated shadow on drag start, settling smoothly on release
+- **Velocity-aware flick** — fast swipes snap to the next/previous tab intelligently
+- **`PageController` sync** — pill mirrors `PageView` drag proportionally in real time
+- **`TabController` sync** — works seamlessly with `TabBarView`
+- **Controlled mode** — drive index externally via `currentIndex` (BLoC / Riverpod / setState)
+- **Badges** — dot badges on icons via `SlidingNavItem`
+- **Fully customisable** — colors, borders, border radii, shadows, text styles
+- **Accessible** — semantic button roles, selected state, custom labels
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Add to your `pubspec.yaml`:
 
@@ -39,7 +44,7 @@ flutter pub get
 
 ---
 
-## 📖 Usage
+## Usage
 
 ### Simple segmented control (string labels)
 
@@ -96,7 +101,7 @@ SlidingSegmentedNavbar(
 
 ---
 
-## 🎨 Customisation
+## Customisation
 
 | Parameter | Type | Default | Description |
 |---|---|---|---|
@@ -126,18 +131,18 @@ SlidingSegmentedNavbar(
 
 ---
 
-## 📁 Example
+## Example
 
 A full runnable example is in the [`example/`](example/) folder.
 
 ---
 
-## 🐛 Issues & Contributions
+## Issues & Contributions
 
 Found a bug or want a feature? Open an issue or PR on [GitHub](https://github.com/shubham-pandey/ios_sliding_navbar).
 
 ---
 
-## 📄 License
+## License
 
 MIT © 2026 Shubham
