@@ -134,7 +134,7 @@ A full runnable example is in the [`example/`](example/) folder.
 
 ## 🐛 Issues & Contributions
 
-Found a bug or want a feature? Open an issue or PR on [GitHub](https://github.com/shubham3327/ios_sliding_navbar).
+Found a bug or want a feature? Open an issue or PR on [GitHub](https://github.com/shubham-pandey/ios_sliding_navbar).
 
 ---
 
