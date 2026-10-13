@@ -10,7 +10,7 @@ A highly polished **iOS-style sliding segmented navbar** for Flutter featuring r
 
 ---
 
-![Demo](assets/demo.gif)
+![Demo](https://raw.githubusercontent.com/shubham-pandey/ios_sliding_navbar/main/assets/demo.gif)
 
 
 ## Features

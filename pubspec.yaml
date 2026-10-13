@@ -1,6 +1,6 @@
 name: ios_sliding_navbar
 description: "A highly polished iOS-style sliding segmented navbar for Flutter with real-time drag tracking, pop-out physics, velocity-aware flick, and PageController/TabController sync."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/shubham-pandey/ios_sliding_navbar
 
 environment:
